@@ -1,7 +1,7 @@
 <script>
 	import Logo from '../lib/Logo.svelte';
 
-	let number = '$251,500';
+	let number = '$82,262';
 
 	const ageToDollars = {
 		'At 20': 8766,
@@ -97,7 +97,9 @@
 				fossil fuels. Invest for the&nbsp;future&nbsp;today.
 			</p>
 			<div style="text-align: center">
-				<button> Make the switch </button>
+				<button href="https://www.futuresuper.com.au/?utm_source=poster-lp">
+					Make the switch
+				</button>
 			</div>
 		</div>
 	</div>
