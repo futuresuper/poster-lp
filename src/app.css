@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'HelveticaNeueLTPro-Roman';
+	src: url('./lib/fonts/hnrom.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'HelveticaNeueLTPro-Md';
+	src: url('./lib/fonts/hnmd.woff2') format('woff2');
+}
+:root {
+	font-family: 'HelveticaNeueLTPro-Roman', sans-serif;
+}
+body {
+	margin: 0;
+}
