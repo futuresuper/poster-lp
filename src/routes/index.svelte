@@ -97,9 +97,9 @@
 				fossil fuels. Invest for the&nbsp;future&nbsp;today.
 			</p>
 			<div style="text-align: center">
-				<button href="https://www.futuresuper.com.au/?utm_source=poster-lp">
-					Make the switch
-				</button>
+				<a href="https://www.futuresuper.com.au/?utm_source=poster-lp"
+					><button> Make the switch </button></a
+				>
 			</div>
 		</div>
 	</div>
@@ -214,6 +214,11 @@
 		border: 0;
 		padding: 12px 60px;
 		margin: 20px 0 80px 0;
+		cursor: pointer;
+	}
+
+	button:hover {
+		text-decoration: underline;
 	}
 
 	footer {
