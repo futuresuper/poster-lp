@@ -265,6 +265,19 @@
 			font-size: 18px;
 		}
 
+		select {
+			width: 100%;
+			min-height: 34px;
+			margin-bottom: 6px;
+		}
+
+		#number {
+			display: block;
+			padding: 0px 8px;
+			margin-top: 4px;
+			margin-bottom: 6px;
+		}
+
 		.how-it-works {
 			margin-top: -54px;
 		}
